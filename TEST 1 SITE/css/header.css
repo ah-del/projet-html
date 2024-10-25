@@ -1,0 +1,15 @@
+.header nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+	background-color: #e4e0e0;
+}
+
+.header img {
+	max-width: 60px;
+}
+.header ul {
+	display: flex;
+	gap: 1em;
+}
